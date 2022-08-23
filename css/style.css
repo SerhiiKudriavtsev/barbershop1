@@ -1,0 +1,20 @@
+/*
+basic-white #FFFFFF;
+basic-black #303030;
+color-paragraph #555555;
+color-price #9DA4BD;
+color-aсcent #FF6C00;
+color: rgba(157, 164, 189, 0.6);
+title Raleway; 700;
+text Open Sans;
+/*шрифти меню
+font-family: Open Sans;
+font-style: normal;
+font-weight: 400; 600; 700;
+font-size: 12px; 11; 14; 42; 18;
+line-height: 16px; 15; 26; 49; 30;
+letter-spacing: 0.1em; 0.2em; 0.09em; 0.02; 0.05;
+*/
+body {
+    font-family: Open Sans;
+}
